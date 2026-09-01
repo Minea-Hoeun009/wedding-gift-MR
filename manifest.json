@@ -1,0 +1,26 @@
+{
+  "name": "កម្មវិធីកត់ចំណងដៃ & ហិរញ្ញវត្ថុមង្គលការ",
+  "short_name": "កត់ចំណងដៃ",
+  "description": "ប្រព័ន្ធគ្រប់គ្រងចំណងដៃ និងហិរញ្ញវត្ថុមង្គលការ ហឿន មិនា & ឆាយ រ័ត្នថា",
+  "start_url": "./admin_dashboard.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FAF6EE",
+  "theme_color": "#8A641A",
+  "categories": ["finance", "utilities", "events"],
+  "icons": [
+    {
+      "src": "Romdoul.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "Romdoul.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

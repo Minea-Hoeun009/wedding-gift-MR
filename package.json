@@ -1,0 +1,11 @@
+{
+  "name": "wedding-gift-app",
+  "version": "1.0.0",
+  "description": "Wedding Finance & Gift Management App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "echo 'Static Web / PWA Ready for Vercel'",
+    "package-win": "electron-packager . \"WeddingGiftApp\" --platform=win32 --arch=x64 --icon=Romdoul.png --out=dist/ --overwrite"
+  }
+}
