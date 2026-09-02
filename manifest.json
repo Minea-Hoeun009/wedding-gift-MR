@@ -2,7 +2,7 @@
   "name": "កម្មវិធីកត់ចំណងដៃ & ហិរញ្ញវត្ថុមង្គលការ",
   "short_name": "កត់ចំណងដៃ",
   "description": "ប្រព័ន្ធគ្រប់គ្រងចំណងដៃ និងហិរញ្ញវត្ថុមង្គលការ ហឿន មិនា & ឆាយ រ័ត្នថា",
-  "start_url": "./admin_dashboard.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",

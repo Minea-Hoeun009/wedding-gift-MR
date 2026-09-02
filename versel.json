@@ -1,6 +1,6 @@
 {
   "outputDirectory": ".",
   "rewrites": [
-    { "source": "/", "destination": "/admin_dashboard.html" }
+    { "source": "/", "destination": "/index.html" }
   ]
 }
